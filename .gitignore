@@ -1,0 +1,22 @@
+# python
+__pycache__/
+*.pyc
+*.pyo
+
+# envs
+.env
+.venv
+
+# conda
+*.conda
+*.mamba
+
+# results / checkpoints
+results/
+data/*.pkl
+external/
+
+# mac
+.DS_Store
+
+ba.pkl

@@ -1,0 +1,9 @@
+{
+  "run_id": "model1",
+  "seconds": 29828.21079158783,
+  "num_losses": 299935,
+  "num_episodes": 12849,
+  "last_return": -21.0,
+  "n_steps": 3,
+  "double_DQN": true
+}

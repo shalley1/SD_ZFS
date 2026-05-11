@@ -1,0 +1,9 @@
+{
+  "run_id": "zfs__idx15__seed0__n30__p0.2__neter__double0__nstep3__lr0.003__bs32__epsdec50000__tgt200__lat128__hid256__lv2",
+  "seconds": 515.3200759887695,
+  "num_losses": 74967,
+  "num_episodes": 5760,
+  "last_return": -13.0,
+  "n_steps": 3,
+  "double_DQN": false
+}
