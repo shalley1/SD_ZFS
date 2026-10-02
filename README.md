@@ -1,3 +1,5 @@
+https://arxiv.org/pdf/2606.18106
+
 #  SD-ZFS (Structure2Vec-DQN-ZFS)
 
 > Reinforcement learning framework for the Zero Forcing Set problem using Structure2Vec and Deep Q-Learning.
